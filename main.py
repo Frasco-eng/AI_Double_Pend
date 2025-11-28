@@ -6,14 +6,14 @@ m2 = 2
 l1 = 1.5
 l2 = 1.5
 g = 9.81
-b1 = 2
-b2 = 2
+b1 = 20
+b2 = 0
 
 
 def dynamics(states:np.ndarray, 
              inputs = np.zeros((2,1)),
              friction:bool = True,
-             complete:bool = True):
+             complete:bool = False):
     '''
     p_m1 = [l1 sin(o1), l1 cos(o1)]
     v_m1 = [l1 cos(o1) o1', -l1 sin(o1) o1']
@@ -59,8 +59,8 @@ def dynamics(states:np.ndarray,
     
     # OUR C
     C = np.array([
-        [-m2 *l1*l2*np.sin(o2) * o2_dot, -m2 *l1*l2*np.sin(o2) * o2_dot], 
-        [m2 * l1*l2*np.sin(o2) * o1_dot, m2 *l1*l2*np.sin(o2) * o1_dot]
+        [-m2 *l1*l2*np.sin(o2) * o2_dot, -m2 *l1*l2*np.sin(o2) * (o2_dot+o1_dot)], 
+        [m2 * l1*l2*np.sin(o2) * o1_dot, 0.0]
     ])
 
     # C(q, q_dot) = c(q, q_dot)*q_dot
@@ -90,8 +90,6 @@ def dynamics(states:np.ndarray,
         [o2_dot]
         ])
     
-    assert C_complete.any() == (C @ o_dot).any()
-
     if complete:
         o_dot_dot = - np.linalg.pinv(M) @ (C_complete + D @ o_dot + G + inputs)
     else:
