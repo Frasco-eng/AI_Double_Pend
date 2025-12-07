@@ -1,0 +1,17 @@
+{
+    "model_name": "BaselineFNN",
+    "friction_type": "nofrict",
+    "batch_size": 1024,
+    "learning_rate": 0.0003,
+    "max_epochs": 400,
+    "optimizer": "AdamW",
+    "loss_function": "MSELoss",
+    "params": {
+        "hidden_dim": 32
+    },
+    "final_train_loss": 0.5782345152292095,
+    "final_test_loss": 0.7142646783276608,
+    "evolution_metric_state": 11.28952693939209,
+    "evolution_metric_energy": 21.70411332067573,
+    "timestamp": "2025-12-07T18:30:20.172368"
+}

@@ -1,0 +1,18 @@
+{
+    "model_name": "DeepFNN",
+    "friction_type": "nofrict",
+    "batch_size": 1024,
+    "learning_rate": 0.0003,
+    "max_epochs": 500,
+    "optimizer": "AdamW",
+    "loss_function": "MSELoss",
+    "params": {
+        "hidden_dim": 256,
+        "n_hidden": 8
+    },
+    "final_train_loss": 0.07342404035515472,
+    "final_test_loss": 0.14395388960838318,
+    "evolution_metric_state": 10.338266372680664,
+    "evolution_metric_energy": 15.83521023065032,
+    "timestamp": "2025-12-07T18:40:02.149938"
+}
