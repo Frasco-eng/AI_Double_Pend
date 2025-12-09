@@ -1,0 +1,10 @@
+train_path: branch1/data_enhanced/training/train_lowfrict.csv
+val_path: branch1/data_enhanced/training/val_lowfrict.csv
+test_path: branch1/data_enhanced/training/test_lowfrict.csv
+hidden_dims: [32, 64, 64, 32, 16]
+epochs: 1000
+batch_size: 256
+lr: 0.001
+weight_decay: 0.0001
+patience: 15
+model_name: ude_model.pth
