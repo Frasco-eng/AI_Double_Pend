@@ -1,0 +1,10 @@
+tran_path: branch1/data_enhanced/training/train_lowfrict.csv
+val_path: branch1/data_enhanced/training/val_lowfrict.csv
+test_path: branch1/data_enhanced/training/test_lowfrict.csv
+curriculum_steps: [4, 8, 16, 32]
+epochs_per_stage: [10, 10, 10, 10]
+lrs: [0.01, 0.01, 0.01, 0.01]
+batch_size: 512
+patience: 15
+wd: 0.0
+model_name: integrator_model.pth
