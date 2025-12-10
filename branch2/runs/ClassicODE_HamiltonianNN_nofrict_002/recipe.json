@@ -1,0 +1,18 @@
+{
+    "solver_name": "ClassicODE",
+    "func_name": "HamiltonianNN",
+    "friction_type": "nofrict",
+    "batch_size": 1024,
+    "learning_rate": 0.001,
+    "max_epochs": 500,
+    "optimizer": "AdamW",
+    "loss_function": "MSELoss",
+    "params": {
+        "hidden_dim": 256
+    },
+    "final_train_loss": 7.051559561177304,
+    "final_test_loss": 66.34157542178505,
+    "state_evolution_loss": 3779.003173828125,
+    "evolution_metric_energy": 1914208644.9120212,
+    "timestamp": "2025-12-09T01:18:47.834418"
+}
