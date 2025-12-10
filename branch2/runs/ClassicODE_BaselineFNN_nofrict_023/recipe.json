@@ -1,0 +1,21 @@
+{
+    "solver_name": "ClassicODE",
+    "func_name": "BaselineFNN",
+    "friction_type": "nofrict",
+    "batch_size": 1024,
+    "learning_rate": 0.001,
+    "max_epochs": 500,
+    "optimizer": "AdamW",
+    "loss_function": "MSELoss",
+    "params": {
+        "input_dim": 4,
+        "hidden_dim": 32,
+        "activation": "SiLU",
+        "out_dim": 2
+    },
+    "final_train_loss": 0.17301647139615134,
+    "final_test_loss": 0.17348202945370422,
+    "state_evolution_loss": 11.17819595336914,
+    "evolution_metric_energy": 8.957461949460033,
+    "timestamp": "2025-12-10T00:33:27.920057"
+}

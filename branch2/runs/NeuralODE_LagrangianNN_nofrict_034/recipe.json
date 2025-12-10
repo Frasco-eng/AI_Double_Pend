@@ -1,0 +1,20 @@
+{
+    "solver_name": "NeuralODE",
+    "func_name": "LagrangianNN",
+    "friction_type": "nofrict",
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "max_epochs": 10000,
+    "optimizer": "AdamW",
+    "loss_function": "MAELoss",
+    "params": {
+        "input_dim": 4,
+        "hidden_dim": 512,
+        "activation": "Softplus"
+    },
+    "final_train_loss": 0.011423658579587936,
+    "final_test_loss": 0.012415153905749321,
+    "state_evolution_loss": 2.8950910568237305,
+    "evolution_metric_energy": 6.526702831385209,
+    "timestamp": "2025-12-10T16:49:36.338431"
+}

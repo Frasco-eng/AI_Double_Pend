@@ -1,0 +1,21 @@
+{
+    "solver_name": "NeuralODE",
+    "func_name": "BaselineFNN",
+    "friction_type": "nofrict",
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "max_epochs": 500,
+    "optimizer": "AdamW",
+    "loss_function": "MSELoss",
+    "params": {
+        "input_dim": 4,
+        "hidden_dim": 32,
+        "activation": "SiLU",
+        "out_dim": 2
+    },
+    "final_train_loss": 0.8683555722236633,
+    "final_test_loss": 23.58360481262207,
+    "state_evolution_loss": 26.878076553344727,
+    "evolution_metric_energy": 2494.42482091985,
+    "timestamp": "2025-12-09T23:48:22.618579"
+}
