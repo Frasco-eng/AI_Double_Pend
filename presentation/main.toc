@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Background and Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{Data}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Generation}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Inspection}{7}{0}{2}
+\beamer@subsectionintoc {2}{3}{Preprocessing}{10}{0}{2}
