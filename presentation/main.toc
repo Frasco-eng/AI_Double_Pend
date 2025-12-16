@@ -1,5 +1,11 @@
-\beamer@sectionintoc {1}{Background and Motivation}{3}{0}{1}
-\beamer@sectionintoc {2}{Data}{6}{0}{2}
-\beamer@subsectionintoc {2}{1}{Generation}{6}{0}{2}
-\beamer@subsectionintoc {2}{2}{Inspection}{7}{0}{2}
-\beamer@subsectionintoc {2}{3}{Preprocessing}{10}{0}{2}
+\beamer@sectionintoc {1}{Introduction \& Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{Modeling and data generation}{5}{0}{2}
+\beamer@sectionintoc {3}{Data Inspection}{9}{0}{3}
+\beamer@sectionintoc {4}{Black Box Approaches}{19}{0}{4}
+\beamer@sectionintoc {5}{Parameter Identification}{24}{0}{5}
+\beamer@sectionintoc {6}{Naive Approaches}{27}{0}{6}
+\beamer@sectionintoc {7}{Neural Networks with Physical Structure}{35}{0}{7}
+\beamer@sectionintoc {8}{Neuro Probabilistic Model}{40}{0}{8}
+\beamer@sectionintoc {9}{Conclusions and Future Works}{44}{0}{9}
+\beamer@sectionintoc {10}{Appendix}{46}{0}{10}
+\beamer@subsectionintoc {10}{1}{Appendix A - Double Pendulum Dynamics}{46}{0}{10}
