@@ -1,0 +1,40 @@
+{
+    "solver_name": "ClassicODE",
+    "func_name": "DeepFNN",
+    "friction_type": "nofrict",
+    "batch_size": 1024,
+    "learning_rate": 0.001,
+    "max_epochs": 250,
+    "optimizer": "AdamW",
+    "loss_function": "MSELoss",
+    "params": {
+        "input_dim": 4,
+        "hidden_dim": 256,
+        "n_hidden": 4,
+        "activation": "SiLU",
+        "out_dim": 2
+    },
+    "stats": {
+        "x_dot_mean": [
+            0.0015620116610080004,
+            -0.12874384224414825
+        ],
+        "x_dot_std": [
+            3.1827034950256348,
+            5.946479320526123
+        ],
+        "x_dot_dot_mean": [
+            -0.028519177809357643,
+            0.03202459216117859
+        ],
+        "x_dot_dot_std": [
+            13.366604804992676,
+            26.826017379760742
+        ]
+    },
+    "final_train_loss": 2.9274492158325716e-06,
+    "final_test_loss": 1.3862252865237679e-05,
+    "state_evolution_loss": 48.63962936401367,
+    "evolution_metric_energy": 4981.961991634157,
+    "timestamp": "2025-12-12T22:29:48.289212"
+}

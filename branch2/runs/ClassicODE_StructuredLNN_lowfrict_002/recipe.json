@@ -1,0 +1,38 @@
+{
+    "solver_name": "ClassicODE",
+    "func_name": "StructuredLNN",
+    "friction_type": "lowfrict",
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "max_epochs": 20,
+    "optimizer": "AdamW",
+    "loss_function": "MSELoss",
+    "params": {
+        "input_dim": 4,
+        "hidden_dim": 256,
+        "activation": "SiLU"
+    },
+    "stats": {
+        "x_dot_mean": [
+            0.07194860279560089,
+            0.03978036716580391
+        ],
+        "x_dot_std": [
+            2.5000216960906982,
+            4.746725082397461
+        ],
+        "x_dot_dot_mean": [
+            0.12659980356693268,
+            -0.09927516430616379
+        ],
+        "x_dot_dot_std": [
+            10.390239715576172,
+            23.917028427124023
+        ]
+    },
+    "final_train_loss": 0.000270133416073813,
+    "final_test_loss": 0.0002323653718478767,
+    "state_evolution_loss": 0.20916853845119476,
+    "evolution_metric_energy": 1.90773606458591,
+    "timestamp": "2025-12-13T12:23:38.678014"
+}

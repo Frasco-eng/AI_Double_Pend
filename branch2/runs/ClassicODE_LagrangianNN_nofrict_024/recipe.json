@@ -1,0 +1,20 @@
+{
+    "solver_name": "ClassicODE",
+    "func_name": "LagrangianNN",
+    "friction_type": "nofrict",
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "max_epochs": 10,
+    "optimizer": "AdamW",
+    "loss_function": "MSELoss",
+    "params": {
+        "input_dim": 4,
+        "hidden_dim": 512,
+        "activation": "Softplus"
+    },
+    "final_train_loss": 0.9503318121631025,
+    "final_test_loss": 0.8531722324329186,
+    "state_evolution_loss": 56.6258430480957,
+    "evolution_metric_energy": 8486.121918960258,
+    "timestamp": "2025-12-12T16:35:36.421916"
+}
