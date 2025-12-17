@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.15)  17 DEC 2025 00:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.15)  17 DEC 2025 10:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -589,24 +589,24 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -661,56 +661,56 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\cenni\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 193.
+Package hyperref Info: Link coloring OFF on input line 197.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 193.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 197.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 193.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 197.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 193.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 193.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 197.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 197.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 193.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 197.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 193.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 193.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 197.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 197.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 193.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 197.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 193.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 193.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 197.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 197.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 193.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 197.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 193.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 193.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 197.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 197.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 193.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 197.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 193.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 197.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 193.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 197.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 193.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 197.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 193.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 197.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 193.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 197.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 193.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 197.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 193.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 197.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 193.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 193.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 197.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 197.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 193.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 197.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 193.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 197.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 193.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 197.
  (C:\Users\cenni\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (C:\Users\cenni\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-bibliography-dictionary-English.dict
@@ -901,12 +901,12 @@ Package pdftex.def Info: ./Images/04_baseline_bb/integrator.pdf  used on input l
 <./Images/04_baseline_bb/Gaussian.png, id=416, 433.62pt x 289.08pt>
 File: ./Images/04_baseline_bb/Gaussian.png Graphic file (type png)
 <use ./Images/04_baseline_bb/Gaussian.png>
-Package pdftex.def Info: ./Images/04_baseline_bb/Gaussian.png  used on input line 135.
+Package pdftex.def Info: ./Images/04_baseline_bb/Gaussian.png  used on input line 140.
 (pdftex.def)             Requested size: 137.67865pt x 91.78407pt.
 <./Images/04_baseline_bb/Laplacian.png, id=417, 433.62pt x 289.08pt>
 File: ./Images/04_baseline_bb/Laplacian.png Graphic file (type png)
 <use ./Images/04_baseline_bb/Laplacian.png>
-Package pdftex.def Info: ./Images/04_baseline_bb/Laplacian.png  used on input line 135.
+Package pdftex.def Info: ./Images/04_baseline_bb/Laplacian.png  used on input line 140.
 (pdftex.def)             Requested size: 137.67865pt x 91.78407pt.
  [25
 
@@ -914,18 +914,18 @@ Package pdftex.def Info: ./Images/04_baseline_bb/Laplacian.png  used on input li
 <./Images/04_baseline_bb/sample_weights.png, id=450, 433.62pt x 433.62pt>
 File: ./Images/04_baseline_bb/sample_weights.png Graphic file (type png)
 <use ./Images/04_baseline_bb/sample_weights.png>
-Package pdftex.def Info: ./Images/04_baseline_bb/sample_weights.png  used on input line 172.
-(pdftex.def)             Requested size: 185.86609pt x 185.86409pt.
+Package pdftex.def Info: ./Images/04_baseline_bb/sample_weights.png  used on input line 178.
+(pdftex.def)             Requested size: 175.54265pt x 175.54236pt.
  [26
 
  <./Images/04_baseline_bb/sample_weights.png>]
 <./Images/04_baseline_bb/deep_ez.png, id=457, 867.24pt x 722.7pt>
 File: ./Images/04_baseline_bb/deep_ez.png Graphic file (type png)
 <use ./Images/04_baseline_bb/deep_ez.png>
-Package pdftex.def Info: ./Images/04_baseline_bb/deep_ez.png  used on input line 187.
+Package pdftex.def Info: ./Images/04_baseline_bb/deep_ez.png  used on input line 193.
 (pdftex.def)             Requested size: 275.3573pt x 229.4602pt.
 
-Overfull \vbox (6.88548pt too high) detected at line 187
+Overfull \vbox (6.88548pt too high) detected at line 193
  []
 
 [27
@@ -934,142 +934,155 @@ Overfull \vbox (6.88548pt too high) detected at line 187
 <./Images/04_baseline_bb/Deep_hard.png, id=464, 867.24pt x 722.7pt>
 File: ./Images/04_baseline_bb/Deep_hard.png Graphic file (type png)
 <use ./Images/04_baseline_bb/Deep_hard.png>
-Package pdftex.def Info: ./Images/04_baseline_bb/Deep_hard.png  used on input line 197.
+Package pdftex.def Info: ./Images/04_baseline_bb/Deep_hard.png  used on input line 205.
 (pdftex.def)             Requested size: 275.3573pt x 229.4602pt.
 
-Overfull \vbox (6.88548pt too high) detected at line 197
+Overfull \vbox (6.88548pt too high) detected at line 205
  []
 
 [28
 
- <./Images/04_baseline_bb/Deep_hard.png>]) (./05_dynamic_ODE.tex [29
+ <./Images/04_baseline_bb/Deep_hard.png>]
+<./Images/04_baseline_bb/energy_drift.png, id=471, 722.7pt x 433.62pt>
+File: ./Images/04_baseline_bb/energy_drift.png Graphic file (type png)
+<use ./Images/04_baseline_bb/energy_drift.png>
+Package pdftex.def Info: ./Images/04_baseline_bb/energy_drift.png  used on input line 220.
+(pdftex.def)             Requested size: 275.3573pt x 165.21399pt.
+ [29
+
+ <./Images/04_baseline_bb/energy_drift.png>]) (./05_dynamic_ODE.tex
+File: ./Images/04_baseline_bb/integrator.pdf Graphic file (type pdf)
+<use ./Images/04_baseline_bb/integrator.pdf>
+Package pdftex.def Info: ./Images/04_baseline_bb/integrator.pdf  used on input line 32.
+(pdftex.def)             Requested size: 137.67603pt x 78.8624pt.
+ [30
 
 ]
 
 pdfTeX warning: pdflatex (file ./Images/05_dynamic_ODE/DynODE.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Images/05_dynamic_ODE/DynODE.pdf, id=491, 378.51413pt x 163.00899pt>
+<./Images/05_dynamic_ODE/DynODE.pdf, id=498, 378.51413pt x 163.00899pt>
 File: ./Images/05_dynamic_ODE/DynODE.pdf Graphic file (type pdf)
 <use ./Images/05_dynamic_ODE/DynODE.pdf>
-Package pdftex.def Info: ./Images/05_dynamic_ODE/DynODE.pdf  used on input line 51.
+Package pdftex.def Info: ./Images/05_dynamic_ODE/DynODE.pdf  used on input line 58.
 (pdftex.def)             Requested size: 206.51929pt x 88.94135pt.
 
 
 pdfTeX warning: pdflatex (file ./Images/05_dynamic_ODE/DynODE_fixed.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Images/05_dynamic_ODE/DynODE_fixed.pdf, id=492, 378.51413pt x 163.00899pt>
+<./Images/05_dynamic_ODE/DynODE_fixed.pdf, id=499, 378.51413pt x 163.00899pt>
 File: ./Images/05_dynamic_ODE/DynODE_fixed.pdf Graphic file (type pdf)
 <use ./Images/05_dynamic_ODE/DynODE_fixed.pdf>
-Package pdftex.def Info: ./Images/05_dynamic_ODE/DynODE_fixed.pdf  used on input line 51.
+Package pdftex.def Info: ./Images/05_dynamic_ODE/DynODE_fixed.pdf  used on input line 58.
 (pdftex.def)             Requested size: 206.51929pt x 88.94135pt.
-[30
-
- <./Images/05_dynamic_ODE/DynODE.pdf> <./Images/05_dynamic_ODE/DynODE_fixed.pdf>]
-<./Images/05_dynamic_ODE/v169ode/history.npy.png, id=560, 722.7pt x 433.62pt>
-File: ./Images/05_dynamic_ODE/v169ode/history.npy.png Graphic file (type png)
-<use ./Images/05_dynamic_ODE/v169ode/history.npy.png>
-Package pdftex.def Info: ./Images/05_dynamic_ODE/v169ode/history.npy.png  used on input line 101.
-(pdftex.def)             Requested size: 137.67603pt x 82.60037pt.
-
-Overfull \vbox (3.80298pt too high) detected at line 101
- []
-
 [31
 
- <./Images/05_dynamic_ODE/v169ode/history.npy.png>]
-<./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_9.png, id=570, 1011.78pt x 722.7pt>
-File: ./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_9.png Graphic file (type png)
-<use ./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_9.png>
-Package pdftex.def Info: ./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_9.png  used on input line 114.
-(pdftex.def)             Requested size: 344.19533pt x 245.8581pt.
+ <./Images/05_dynamic_ODE/DynODE.pdf> <./Images/05_dynamic_ODE/DynODE_fixed.pdf>]
+<./Images/05_dynamic_ODE/v169ode/history.npy.png, id=568, 722.7pt x 433.62pt>
+File: ./Images/05_dynamic_ODE/v169ode/history.npy.png Graphic file (type png)
+<use ./Images/05_dynamic_ODE/v169ode/history.npy.png>
+Package pdftex.def Info: ./Images/05_dynamic_ODE/v169ode/history.npy.png  used on input line 108.
+(pdftex.def)             Requested size: 137.67603pt x 82.60037pt.
 
-Overfull \vbox (10.86145pt too high) detected at line 114
+Overfull \vbox (3.80298pt too high) detected at line 108
  []
 
 [32
 
- <./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_9.png>]
-<./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_3.png, id=577, 1011.78pt x 722.7pt>
-File: ./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_3.png Graphic file (type png)
-<use ./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_3.png>
-Package pdftex.def Info: ./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_3.png  used on input line 126.
+ <./Images/05_dynamic_ODE/v169ode/history.npy.png>]
+<./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_9.png, id=577, 1011.78pt x 722.7pt>
+File: ./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_9.png Graphic file (type png)
+<use ./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_9.png>
+Package pdftex.def Info: ./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_9.png  used on input line 121.
 (pdftex.def)             Requested size: 344.19533pt x 245.8581pt.
 
-Overfull \vbox (10.86145pt too high) detected at line 126
+Overfull \vbox (10.86145pt too high) detected at line 121
  []
 
 [33
+
+ <./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_9.png>]
+<./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_3.png, id=584, 1011.78pt x 722.7pt>
+File: ./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_3.png Graphic file (type png)
+<use ./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_3.png>
+Package pdftex.def Info: ./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_3.png  used on input line 133.
+(pdftex.def)             Requested size: 344.19533pt x 245.8581pt.
+
+Overfull \vbox (10.86145pt too high) detected at line 133
+ []
+
+[34
 
  <./Images/05_dynamic_ODE/v169ode/plots/evolution_comparison_3.png>]) (./06_naive_approaches.tex
 Overfull \vbox (2.08006pt too high) detected at line 49
  []
 
-[34
+[35
 
 ]
 
 pdfTeX warning: pdflatex (file ./Images/06_naive_approaches/entries_pred.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Images/06_naive_approaches/entries_pred.pdf, id=614, 462.92952pt x 171.13937pt>
+<./Images/06_naive_approaches/entries_pred.pdf, id=621, 462.92952pt x 171.13937pt>
 File: ./Images/06_naive_approaches/entries_pred.pdf Graphic file (type pdf)
 <use ./Images/06_naive_approaches/entries_pred.pdf>
 Package pdftex.def Info: ./Images/06_naive_approaches/entries_pred.pdf  used on input line 69.
 (pdftex.def)             Requested size: 240.93567pt x 89.0713pt.
-[35
+[36
 
  <./Images/06_naive_approaches/entries_pred.pdf>]
-<./Images/06_naive_approaches/v1000wnEntries/plots/evolution_comparison_1.png.png, id=654, 1300.86pt x 722.7pt>
+<./Images/06_naive_approaches/v1000wnEntries/plots/evolution_comparison_1.png.png, id=661, 1300.86pt x 722.7pt>
 File: ./Images/06_naive_approaches/v1000wnEntries/plots/evolution_comparison_1.png.png Graphic file (type png)
 <use ./Images/06_naive_approaches/v1000wnEntries/plots/evolution_comparison_1.png.png>
 Package pdftex.def Info: ./Images/06_naive_approaches/v1000wnEntries/plots/evolution_comparison_1.png.png  used on input line 83.
 (pdftex.def)             Requested size: 275.3573pt x 152.97346pt.
- [36
+ [37
 
  <./Images/06_naive_approaches/v1000wnEntries/plots/evolution_comparison_1.png.png>]
-<./Images/06_naive_approaches/v1000wnEntries/plots/mat_comp_1.png.png, id=661, 867.24pt x 578.16pt>
+<./Images/06_naive_approaches/v1000wnEntries/plots/mat_comp_1.png.png, id=669, 867.24pt x 578.16pt>
 File: ./Images/06_naive_approaches/v1000wnEntries/plots/mat_comp_1.png.png Graphic file (type png)
 <use ./Images/06_naive_approaches/v1000wnEntries/plots/mat_comp_1.png.png>
 Package pdftex.def Info: ./Images/06_naive_approaches/v1000wnEntries/plots/mat_comp_1.png.png  used on input line 90.
 (pdftex.def)             Requested size: 344.19533pt x 229.4602pt.
- [37
+ [38
 
  <./Images/06_naive_approaches/v1000wnEntries/plots/mat_comp_1.png.png>]) (./07_uninformed_predictors.tex
 
 pdfTeX warning: pdflatex (file ./Images/07_uninformed_predictors/DynUDE.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Images/07_uninformed_predictors/DynUDE.pdf, id=681, 667.5941pt x 234.8775pt>
+<./Images/07_uninformed_predictors/DynUDE.pdf, id=688, 667.5941pt x 234.8775pt>
 File: ./Images/07_uninformed_predictors/DynUDE.pdf Graphic file (type pdf)
 <use ./Images/07_uninformed_predictors/DynUDE.pdf>
 Package pdftex.def Info: ./Images/07_uninformed_predictors/DynUDE.pdf  used on input line 12.
 (pdftex.def)             Requested size: 344.19533pt x 121.10124pt.
-[38
+[39
 
- <./Images/07_uninformed_predictors/DynUDE.pdf>] [39
+ <./Images/07_uninformed_predictors/DynUDE.pdf>] [40
 
 ]
 
 pdfTeX warning: pdflatex (file ./Images/07_uninformed_predictors/LNN.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Images/07_uninformed_predictors/LNN.pdf, id=744, 732.63715pt x 256.05663pt>
+<./Images/07_uninformed_predictors/LNN.pdf, id=751, 732.63715pt x 256.05663pt>
 File: ./Images/07_uninformed_predictors/LNN.pdf Graphic file (type pdf)
 <use ./Images/07_uninformed_predictors/LNN.pdf>
 Package pdftex.def Info: ./Images/07_uninformed_predictors/LNN.pdf  used on input line 49.
 (pdftex.def)             Requested size: 275.3573pt x 96.23589pt.
-[40
+[41
 
  <./Images/07_uninformed_predictors/LNN.pdf>]
-<./Images/07_uninformed_predictors/lnn_evo.png, id=786, 867.24pt x 722.7pt>
+<./Images/07_uninformed_predictors/lnn_evo.png, id=793, 867.24pt x 722.7pt>
 File: ./Images/07_uninformed_predictors/lnn_evo.png Graphic file (type png)
 <use ./Images/07_uninformed_predictors/lnn_evo.png>
 Package pdftex.def Info: ./Images/07_uninformed_predictors/lnn_evo.png  used on input line 60.
 (pdftex.def)             Requested size: 275.3573pt x 229.4602pt.
- [41
+ [42
 
  <./Images/07_uninformed_predictors/lnn_evo.png>]
-<./Images/07_uninformed_predictors/energy_drift.png, id=793, 722.7pt x 433.62pt>
+<./Images/07_uninformed_predictors/energy_drift.png, id=800, 722.7pt x 433.62pt>
 File: ./Images/07_uninformed_predictors/energy_drift.png Graphic file (type png)
 <use ./Images/07_uninformed_predictors/energy_drift.png>
 Package pdftex.def Info: ./Images/07_uninformed_predictors/energy_drift.png  used on input line 74.
 (pdftex.def)             Requested size: 309.77368pt x 185.86409pt.
- [42
+ [43
 
  <./Images/07_uninformed_predictors/energy_drift.png>]
-<./Images/07_uninformed_predictors/loss_physics_ok.png, id=800, 722.7pt x 433.62pt>
+<./Images/07_uninformed_predictors/loss_physics_ok.png, id=808, 722.7pt x 433.62pt>
 File: ./Images/07_uninformed_predictors/loss_physics_ok.png Graphic file (type png)
 <use ./Images/07_uninformed_predictors/loss_physics_ok.png>
 Package pdftex.def Info: ./Images/07_uninformed_predictors/loss_physics_ok.png  used on input line 112.
@@ -1079,7 +1092,7 @@ Overfull \hbox (17.21082pt too wide) in paragraph at lines 112--112
  [] 
  []
 
-<./Images/07_uninformed_predictors/loss_physics_broken.png, id=801, 722.7pt x 433.62pt>
+<./Images/07_uninformed_predictors/loss_physics_broken.png, id=809, 722.7pt x 433.62pt>
 File: ./Images/07_uninformed_predictors/loss_physics_broken.png Graphic file (type png)
 <use ./Images/07_uninformed_predictors/loss_physics_broken.png>
 Package pdftex.def Info: ./Images/07_uninformed_predictors/loss_physics_broken.png  used on input line 112.
@@ -1089,127 +1102,133 @@ Overfull \hbox (17.21082pt too wide) in paragraph at lines 112--112
  [] 
  []
 
-[43
+[44
 
  <./Images/07_uninformed_predictors/loss_physics_ok.png> <./Images/07_uninformed_predictors/loss_physics_broken.png>]) (./08_informed_predictors.tex
 
 pdfTeX warning: pdflatex (file ./Images/08_informed_predictors/Dyn_Informed_UDE.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Images/08_informed_predictors/Dyn_Informed_UDE.pdf, id=821, 831.50653pt x 217.21149pt>
+<./Images/08_informed_predictors/Dyn_Informed_UDE.pdf, id=829, 831.50653pt x 217.21149pt>
 File: ./Images/08_informed_predictors/Dyn_Informed_UDE.pdf Graphic file (type pdf)
 <use ./Images/08_informed_predictors/Dyn_Informed_UDE.pdf>
 Package pdftex.def Info: ./Images/08_informed_predictors/Dyn_Informed_UDE.pdf  used on input line 22.
 (pdftex.def)             Requested size: 275.3573pt x 71.92859pt.
-[44
-
- <./Images/08_informed_predictors/Dyn_Informed_UDE.pdf>]
-<./Images/08_informed_predictors/v150/plots/evolution_comparison_4.png, id=898, 1011.78pt x 722.7pt>
-File: ./Images/08_informed_predictors/v150/plots/evolution_comparison_4.png Graphic file (type png)
-<use ./Images/08_informed_predictors/v150/plots/evolution_comparison_4.png>
-Package pdftex.def Info: ./Images/08_informed_predictors/v150/plots/evolution_comparison_4.png  used on input line 41.
-(pdftex.def)             Requested size: 206.51929pt x 147.51486pt.
-
-Overfull \vbox (16.63678pt too high) detected at line 41
- []
-
 [45
 
- <./Images/08_informed_predictors/v150/plots/evolution_comparison_4.png>]
-<./Images/08_informed_predictors/v150/plots/mat_comp_8.png.png, id=917, 867.24pt x 578.16pt>
-File: ./Images/08_informed_predictors/v150/plots/mat_comp_8.png.png Graphic file (type png)
-<use ./Images/08_informed_predictors/v150/plots/mat_comp_8.png.png>
-Package pdftex.def Info: ./Images/08_informed_predictors/v150/plots/mat_comp_8.png.png  used on input line 49.
-(pdftex.def)             Requested size: 344.19533pt x 229.4602pt.
- [46
+ <./Images/08_informed_predictors/Dyn_Informed_UDE.pdf>]
+<./Images/08_informed_predictors/evolution_comparison_8.png, id=905, 1011.78pt x 722.7pt>
+File: ./Images/08_informed_predictors/evolution_comparison_8.png Graphic file (type png)
+<use ./Images/08_informed_predictors/evolution_comparison_8.png>
+Package pdftex.def Info: ./Images/08_informed_predictors/evolution_comparison_8.png  used on input line 41.
+(pdftex.def)             Requested size: 206.51929pt x 147.51486pt.
 
- <./Images/08_informed_predictors/v150/plots/mat_comp_8.png.png>]
+Overfull \vbox (4.63678pt too high) detected at line 41
+ []
+
+[46
+
+ <./Images/08_informed_predictors/evolution_comparison_8.png>]
+<./Images/08_informed_predictors/mat_comp_8.png.png, id=924, 867.24pt x 578.16pt>
+File: ./Images/08_informed_predictors/mat_comp_8.png.png Graphic file (type png)
+<use ./Images/08_informed_predictors/mat_comp_8.png.png>
+Package pdftex.def Info: ./Images/08_informed_predictors/mat_comp_8.png.png  used on input line 49.
+(pdftex.def)             Requested size: 344.19533pt x 229.4602pt.
+ [47
+
+ <./Images/08_informed_predictors/mat_comp_8.png.png>]
 
 pdfTeX warning: pdflatex (file ./Images/08_informed_predictors/Dyn_More_informed.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Images/08_informed_predictors/Dyn_More_informed.pdf, id=936, 740.7675pt x 230.76212pt>
+<./Images/08_informed_predictors/Dyn_More_informed.pdf, id=940, 740.7675pt x 230.76212pt>
 File: ./Images/08_informed_predictors/Dyn_More_informed.pdf Graphic file (type pdf)
 <use ./Images/08_informed_predictors/Dyn_More_informed.pdf>
 Package pdftex.def Info: ./Images/08_informed_predictors/Dyn_More_informed.pdf  used on input line 60.
 (pdftex.def)             Requested size: 275.3573pt x 85.77853pt.
-[47
+[48
 
  <./Images/08_informed_predictors/Dyn_More_informed.pdf>]
-Underfull \hbox (badness 2941) in paragraph at lines 82--82
-[]|\OT1/cmss/m/n/10 Stable, Com-pli-
- []
+<./Images/08_informed_predictors/v_220_Matlearn/plots/mat_comp_4.png.png, id=1004, 867.24pt x 578.16pt>
+File: ./Images/08_informed_predictors/v_220_Matlearn/plots/mat_comp_4.png.png Graphic file (type png)
+<use ./Images/08_informed_predictors/v_220_Matlearn/plots/mat_comp_4.png.png>
+Package pdftex.def Info: ./Images/08_informed_predictors/v_220_Matlearn/plots/mat_comp_4.png.png  used on input line 74.
+(pdftex.def)             Requested size: 275.3573pt x 183.56816pt.
+ [49
 
+ <./Images/08_informed_predictors/v_220_Matlearn/plots/mat_comp_4.png.png>]
+<./Images/08_informed_predictors/v_220_Matlearn/plots/evolution_comparison_6.png, id=1012, 1011.78pt x 722.7pt>
+File: ./Images/08_informed_predictors/v_220_Matlearn/plots/evolution_comparison_6.png Graphic file (type png)
+<use ./Images/08_informed_predictors/v_220_Matlearn/plots/evolution_comparison_6.png>
+Package pdftex.def Info: ./Images/08_informed_predictors/v_220_Matlearn/plots/evolution_comparison_6.png  used on input line 82.
+(pdftex.def)             Requested size: 275.3573pt x 196.68648pt.
+ [50
 
-Underfull \hbox (badness 1205) in paragraph at lines 82--82
-\OT1/cmss/m/n/10 cated Iden-ti-fi-ca-
- []
-
-
-Overfull \hbox (3.09004pt too wide) in paragraph at lines 82--82
+ <./Images/08_informed_predictors/v_220_Matlearn/plots/evolution_comparison_6.png>]
+Overfull \hbox (16.78496pt too wide) in paragraph at lines 110--110
  [] 
  []
 
-[48
+[51
 
-] [49
+] [52
 
 ]
 
 pdfTeX warning: pdflatex (file ./Images/08_informed_predictors/LNN_structured.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Images/08_informed_predictors/LNN_structured.pdf, id=1012, 888.4191pt x 280.94962pt>
+<./Images/08_informed_predictors/LNN_structured.pdf, id=1039, 888.4191pt x 280.94962pt>
 File: ./Images/08_informed_predictors/LNN_structured.pdf Graphic file (type pdf)
 <use ./Images/08_informed_predictors/LNN_structured.pdf>
-Package pdftex.def Info: ./Images/08_informed_predictors/LNN_structured.pdf  used on input line 146.
+Package pdftex.def Info: ./Images/08_informed_predictors/LNN_structured.pdf  used on input line 174.
 (pdftex.def)             Requested size: 344.19533pt x 108.84541pt.
-[50
+[53
 
  <./Images/08_informed_predictors/LNN_structured.pdf>]
-<./Images/08_informed_predictors/slnn_evo.png, id=1089, 867.24pt x 722.7pt>
+<./Images/08_informed_predictors/slnn_evo.png, id=1116, 867.24pt x 722.7pt>
 File: ./Images/08_informed_predictors/slnn_evo.png Graphic file (type png)
 <use ./Images/08_informed_predictors/slnn_evo.png>
-Package pdftex.def Info: ./Images/08_informed_predictors/slnn_evo.png  used on input line 156.
+Package pdftex.def Info: ./Images/08_informed_predictors/slnn_evo.png  used on input line 184.
 (pdftex.def)             Requested size: 275.3573pt x 229.4602pt.
- [51
+ [54
 
- <./Images/08_informed_predictors/slnn_evo.png>] [52
+ <./Images/08_informed_predictors/slnn_evo.png>] [55
 
-]) (./09_neural_probabilistic.tex [53
+]) (./09_neural_probabilistic.tex [56
 
 ]
 
 pdfTeX warning: pdflatex (file ./Images/09_Neuro_Prob/neuro_prob_pred.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Images/09_Neuro_Prob/neuro_prob_pred.pdf, id=1116, 427.29639pt x 184.69pt>
+<./Images/09_Neuro_Prob/neuro_prob_pred.pdf, id=1144, 427.29639pt x 184.69pt>
 File: ./Images/09_Neuro_Prob/neuro_prob_pred.pdf Graphic file (type pdf)
 <use ./Images/09_Neuro_Prob/neuro_prob_pred.pdf>
-Package pdftex.def Info: ./Images/09_Neuro_Prob/neuro_prob_pred.pdf  used on input line 37.
+Package pdftex.def Info: ./Images/09_Neuro_Prob/neuro_prob_pred.pdf  used on input line 44.
 (pdftex.def)             Requested size: 275.3573pt x 119.02126pt.
-[54
+[57
 
- <./Images/09_Neuro_Prob/neuro_prob_pred.pdf>] [55
+ <./Images/09_Neuro_Prob/neuro_prob_pred.pdf>] [58
 
 ]
-<./Images/09_Neuro_Prob/neuro_no_dropout.png, id=1196, 722.7pt x 578.16pt>
+<./Images/09_Neuro_Prob/neuro_no_dropout.png, id=1223, 722.7pt x 578.16pt>
 File: ./Images/09_Neuro_Prob/neuro_no_dropout.png Graphic file (type png)
 <use ./Images/09_Neuro_Prob/neuro_no_dropout.png>
-Package pdftex.def Info: ./Images/09_Neuro_Prob/neuro_no_dropout.png  used on input line 70.
+Package pdftex.def Info: ./Images/09_Neuro_Prob/neuro_no_dropout.png  used on input line 78.
 (pdftex.def)             Requested size: 206.51929pt x 165.20958pt.
- [56
+ [59
 
  <./Images/09_Neuro_Prob/neuro_no_dropout.png>]
-<./Images/09_Neuro_Prob/neuro_dropout.png, id=1212, 722.7pt x 578.16pt>
+<./Images/09_Neuro_Prob/neuro_dropout.png, id=1242, 722.7pt x 578.16pt>
 File: ./Images/09_Neuro_Prob/neuro_dropout.png Graphic file (type png)
 <use ./Images/09_Neuro_Prob/neuro_dropout.png>
-Package pdftex.def Info: ./Images/09_Neuro_Prob/neuro_dropout.png  used on input line 86.
+Package pdftex.def Info: ./Images/09_Neuro_Prob/neuro_dropout.png  used on input line 94.
 (pdftex.def)             Requested size: 206.51929pt x 165.20958pt.
- [57
+ [60
 
- <./Images/09_Neuro_Prob/neuro_dropout.png>]) (./10_conclusions_future_works.tex [58
+ <./Images/09_Neuro_Prob/neuro_dropout.png>]) (./10_conclusions_future_works.tex [61
 
-] [59
+] [62
 
  <C:/Users/cenni/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamericonarticle.pdf>]) (./11_appendix.tex
 Overfull \hbox (26.68826pt too wide) detected at line 59
 []
  []
 
-[60
+[63
 
 ])
 \tf@nav=\write5
@@ -1226,23 +1245,19 @@ Overfull \hbox (26.68826pt too wide) detected at line 59
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 23648 strings out of 467871
- 481140 string characters out of 5418375
- 838743 words of memory out of 5000000
- 51805 multiletter control sequences out of 15000+600000
+ 23694 strings out of 467871
+ 482997 string characters out of 5418375
+ 840463 words of memory out of 5000000
+ 51843 multiletter control sequences out of 15000+600000
  642435 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,669b,953s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi9.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/cenni/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on main.pdf (60 pages, 5847334 bytes).
+Output written on main.pdf (63 pages, 6198255 bytes).
 PDF statistics:
- 1417 PDF objects out of 1440 (max. 8388607)
- 139 named destinations out of 1000 (max. 500000)
- 1291 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1450 PDF objects out of 1728 (max. 8388607)
+ 145 named destinations out of 1000 (max. 500000)
+ 1336 words of extra memory for PDF output out of 10000 (max. 10000000)
 
